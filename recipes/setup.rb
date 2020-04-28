@@ -11,7 +11,7 @@ package 'ntp' do
 end
 
 file '/etc/motd' do
-  content 'Proprety of Alex Ghrasim'
+  content 'Proprety of Alexandru Ghrasim'
   owner 'root'
   group 'root'
 end
